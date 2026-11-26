@@ -8,10 +8,9 @@ This repository currently contains a project overview. Source code, demos, and d
 
 ## My Contributions
 
-Individual responsibilities and supporting evidence are being documented.
+**Collaborative prompt design**
 
-<!-- Add confirmed role, implemented features, technical decisions, validation,
-and links to commits or demos. Separate individual work from team work. -->
+Co-designed prompts with teammates for an LLM-based medical AI agent. I worked with the team to write and refine the agent's instructions through shared prompt-design discussions.
 
 ## Publication Checklist
 
