@@ -1,24 +1,12 @@
-# N.O.V.A.
+# N.O.V.A. · Project moved
 
-An LLM-based medical AI agent project exploring clinical reasoning and agent development.
+프로젝트 소개와 실제 구현 코드를 **[nova 주 저장소](https://github.com/jaehyeongahn01/nova)**로 통합했습니다.
 
-**Portfolio documentation · 2026**
+The project overview and implementation are now maintained in **[jaehyeongahn01/nova](https://github.com/jaehyeongahn01/nova)**.
 
-This repository currently contains a project overview. Source code, demos, and detailed results have not yet been published here.
+- 한국어 모의 진료를 위한 LLM 기반 Doctor Agent
+- 팀원들과 공동 설계·개선한 프롬프트
+- v32 에이전트와 별도 진료지침 검색 도구
+- 최종 성적·순위는 발표 후 업데이트 예정
 
-## My Contributions
-
-**Collaborative prompt design**
-
-Co-designed prompts with teammates for an LLM-based medical AI agent. I worked with the team to write and refine the agent's instructions through shared prompt-design discussions.
-
-## Publication Checklist
-
-- [ ] Describe the project scope and team context
-- [ ] Document individual contributions with evidence
-- [ ] Add original screenshots or a playable / recorded demo
-- [ ] Add source code approved for publication
-- [ ] Document setup, dependencies, and how to run
-- [ ] Report verified results and known limitations
-
-[Jaehyeong Ahn — Portfolio](https://github.com/jaehyeongahn01)
+현재 v32 에이전트의 RAG 연결은 비활성화 상태입니다. 구현 상태와 실행 방법은 주 저장소를 참고해 주세요.
